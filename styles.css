@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.file-section {
+    margin: 20px 0;
+}
+
+.file-name {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
+
+.file-documents {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+.hidden {
+    display: none;
+}
